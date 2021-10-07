@@ -1,0 +1,9 @@
+Comment,Designator,Footprint,LCSC
+"0.1u","C1","Capacitor_SMD:C_0603_1608Metric","C14663"
+"1u","C2","Capacitor_SMD:C_0603_1608Metric","C15849"
+"4.7u","C3","Capacitor_SMD:C_0603_1608Metric","C19666"
+"Conn_01x07","J1","Connector_PinHeader_2.54mm:PinHeader_1x07_P2.54mm_Vertical",""
+"39","R1","Resistor_SMD:R_0603_1608Metric","C137733"
+"10k","R2","Resistor_SMD:R_0603_1608Metric","C25804"
+"PMW3360","U1","PMW3360:PMW3360",""
+"TCR2EF19","U2","Package_TO_SOT_SMD:SOT-23-5","C146366"
